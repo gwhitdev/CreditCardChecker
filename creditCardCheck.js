@@ -1,4 +1,4 @@
-// GET DOM VARIABLES
+// GET DOM ELEMENTS
 function getTextSpace()  {
     const textSpace = document.getElementById("answer");
     return textSpace;
